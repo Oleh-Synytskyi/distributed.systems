@@ -2,7 +2,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.Scanner;
+import java.util.Scanner;  //Підключаємо необхідні пакети
 
     public static void main(String[] args) throws ParseException {
         System.out.println("HELLo World!");
