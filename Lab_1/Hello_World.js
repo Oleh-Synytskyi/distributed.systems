@@ -4,7 +4,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;  //Підключаємо необхідні пакети
 
-    public static void main(String[] args) throws ParseException {
+    public static void main(String[] args); throws ParseException {
         System.out.println("HELLo World!");
         Scanner in = new Scanner(System.in);
         System.out.print("Please, enter your name:");
