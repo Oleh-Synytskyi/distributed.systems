@@ -1,6 +1,6 @@
-# Lab_1 distributed.systems
+# Lab_1 distributed.systems Seminar 0
 1. Створюю новий репозиторій під назвою Distributed System
-2. Встановлюю нову версію javascript 8.0
+2. Встановлюю нову версію javascript 8.0 або python 3.8
 3. Через платформу Intelij Idea клоную данний репозиторій
 4. Створюю папку під назвою лабораторної роботи і в ній створюємо файл javascript
 5. У файл записуємо код який виводить "Hello World", зберігаємо
