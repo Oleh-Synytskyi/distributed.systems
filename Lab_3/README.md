@@ -25,6 +25,7 @@ from each clients
           ![5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/5.jpg)  
     4) Using clients with command 'exit' 
           ![4](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/4.PNG)  
+          ![5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/5.PNG)
                   
     
     
