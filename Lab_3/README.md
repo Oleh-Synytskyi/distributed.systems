@@ -14,6 +14,14 @@ from each clients
     also start the client, enter the host and port, and enter any message,
     the command will also be available
     
-    2) Using client-server connected application with localhost
+    1) Using client-server connected application with localhost
     
          ![1](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/1.PNG)
+
+    2) Using clients connected clients with ip address 
+          ![2](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/2.PNG)
+    3) Using clients connected is different computers
+          ![3](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/3.PNG)   
+          ![5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/5.jpg)       
+    
+    
