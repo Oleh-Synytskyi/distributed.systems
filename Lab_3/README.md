@@ -15,6 +15,5 @@ from each clients
     the command will also be available
     
     2) Using client-server connected application with localhost
-    [1](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/1.PNG)
     
-     
+         [5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/5.jpg)
