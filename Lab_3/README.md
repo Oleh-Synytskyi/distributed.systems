@@ -16,4 +16,4 @@ from each clients
     
     2) Using client-server connected application with localhost
     
-         ![5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/5.jpg)
+         ![1](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/1.PNG)
