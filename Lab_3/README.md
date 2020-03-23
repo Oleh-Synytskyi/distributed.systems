@@ -22,6 +22,9 @@ from each clients
           ![2](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/2.PNG)
     3) Using clients connected is different computers
           ![3](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/3.PNG)   
-          ![5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/5.jpg)       
+          ![5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/5.jpg)  
+    4) Using clients with command 'exit' 
+          ![4](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_3/Images/4.PNG)  
+                  
     
     
