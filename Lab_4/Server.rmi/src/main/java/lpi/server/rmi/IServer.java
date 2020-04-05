@@ -527,7 +527,7 @@ public interface IServer extends Remote {
          * Gets the name of the argument that did not pass validation.
          *
          * @return A name of the argument that was not valid.
-        //* @see getMessage for validation error description
+         * @see getMessage for validation error description
          */
         public String getArgumentName() {
             return argumentName;
