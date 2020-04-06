@@ -17,7 +17,7 @@ run using start.cmd
 cmd /C mvn package exec:java -Dexec.args="1000"
 goto start
 
-![img1](github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_4/Images/img1.PNG)
+![img1](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_4/Images/img1.PNG)
 
 2) Run Client
 In order to start the server we use this command
