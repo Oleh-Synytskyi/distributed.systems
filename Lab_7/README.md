@@ -13,10 +13,14 @@
 
 - arguments(args) can be yours (you need to enter the host and port), and you can omit them (the server will run with "localhost 616161" settings by default).
 
+![1](https://github.com/Oleh-Synytskyi/distributed.systems/tree/master/Lab_7/Images/1.png)
+
 2) Run client as following:
 
     mvn clean compile exec:java -D exec.args="localhost 61616"
 - arguments may be yours, but you need to enter the host and port of the server according to which the server is running;
+
+![2](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_7/Images/2.png)
 
 # Used Commands
 
@@ -28,3 +32,6 @@
 - file - Send file to user. Has 2 parameters (recipient login, path to file)
 - exit - Shutdown the client (no parameters);
          
+ ![3](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_7/Images/3.png)
+ ![4](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_7/Images/4.png)
+ ![5](https://github.com/Oleh-Synytskyi/distributed.systems/blob/master/Lab_7/Images/5.png)
