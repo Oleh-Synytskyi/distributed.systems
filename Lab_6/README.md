@@ -7,10 +7,15 @@
 
 # Run Server and Client
 
-1. Run server is next arguments:
+ 1 Run server is next arguments:
 
     mvn clean compile exec:java -D exec.args="localhost 8080"
 
+ Seminar_06
+ I use the argument localhost and port
+ 
+ 2 Run client used arguments
+ 
 2.  Run client used arguments
 
     mvn clean compile exec:java -D exec.args="http://localhost:8080"
@@ -29,3 +34,4 @@
 (msg to_user text message for another user)
 
 - exit - Shutdown the client (no parameters);
+ master
