@@ -15,6 +15,7 @@
 
 ![1](https://github.com/Oleh-Synytskyi/distributed.systems/tree/master/Lab_7/Images/1.png)
 
+
 2) Run client as following:
 
     mvn clean compile exec:java -D exec.args="localhost 61616"
